@@ -105,9 +105,3 @@ Data Analytics | Business Intelligence | Machine Learning
 
 ---
 
-## Repository Name Suggestions
-
-- `customer-analytics-dashboard`
-- `excel-sales-dashboard`
-- `customer-insights-dashboard`
-- `business-intelligence-customer-analysis`
