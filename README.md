@@ -8,6 +8,15 @@ The dashboard helps businesses understand their customers, geographic distributi
 
 ---
 
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard_image.png" width="900">
+</p>
+
+
+
 # Dataset Information
 
 **File:** `Customer_Analytics.xlsm`
