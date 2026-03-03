@@ -9,7 +9,7 @@ The dashboard helps businesses understand their customers, geographic distributi
 ---
 
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 <p align="center">
   <img src="dashboard_image.png" width="900">
